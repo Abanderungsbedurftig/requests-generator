@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/.vscode
+
+# production
+server.js
+npm-debug.log*
+package-lock.json
+
